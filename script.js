@@ -9,7 +9,7 @@ async function senden() {
   const ausgabe = document.getElementById('ausgabe');
   ausgabe.innerHTML = '<p><em>Analyse wird durchgeführt...</em></p>';
 
-  const apiKey = 'HIER_DEIN_API_KEY_EINFÜGEN'; // z. B. 'sk-abc123...'
+  const apiKey = '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'; // z. B. 'sk-abc123...'
 
   const systemPrompt = `
 Du bist der Spielleiter eines postapokalyptischen Rollenspiels im Stil von "The Road". 
