@@ -1,0 +1,33 @@
+
+body {
+  background-color: #f1e7d0;
+  font-family: 'Special Elite', monospace;
+  color: #2e2b1b;
+  padding: 20px;
+}
+
+#wrapper {
+  background: rgba(255,255,255,0.8);
+  border: 2px solid #aa947f;
+  padding: 20px;
+  max-width: 800px;
+  margin: auto;
+  box-shadow: 3px 3px 15px rgba(0,0,0,0.3);
+}
+
+textarea {
+  width: 100%;
+  font-family: 'Special Elite', monospace;
+  background-color: #fdfbf5;
+  border: 1px solid #98876d;
+  padding: 10px;
+}
+
+button {
+  font-family: 'Special Elite', monospace;
+  padding: 10px 20px;
+  background-color: #695c4d;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
