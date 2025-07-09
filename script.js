@@ -5,7 +5,7 @@ async function senden() {
   const ausgabe = document.getElementById('ausgabe');
   ausgabe.innerHTML = '<p><em>Analyse wird durchgeführt...</em></p>';
 
-  const apiKey = 'sk-DEIN_RICHTIGER_API_KEY_HIER';
+  const apiKey = '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';
 
   const systemPrompt = `
 Du bist der Spielleiter eines postapokalyptischen Rollenspiels in Zentraleuropa, inspiriert von "The Road".
