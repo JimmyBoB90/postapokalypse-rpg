@@ -1,8 +1,4 @@
 
-function senden() {
-  const input = document.getElementById('charakterInput').value;
-  const ausgabe = document.getElementById('ausgabe');
-  ausgabe.innerHTML = '<p><em>Analyse wird durchgeführt...</em></p>';
 
 async function senden() {
   const input = document.getElementById('charakterInput').value;
